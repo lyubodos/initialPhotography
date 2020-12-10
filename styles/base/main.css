@@ -1,0 +1,24 @@
+html{
+    /* box-sizing: border-box; */
+    background-color: #f1f1f1;
+    /* height: 150vh; */
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+ul{
+    padding-left: 0px;
+}
+
+
+footer {
+    bottom: 0;
+    position: relative;
+    font-size: 15px;
+    padding: 0.5em 1em;
+    margin-top: 10px;
+    z-index: -3;
+}

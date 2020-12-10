@@ -1,0 +1,36 @@
+nav {
+    display: flex;
+    /* padding: 0rem 1rem 0 1rem; */
+    font-size: 1rem;
+    text-align: center;
+    background-color: #aaaaaa;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 0.5em;
+
+}
+ 
+ nav li a {
+     display: block;
+     padding: 3px 15px;
+     text-decoration: none;
+     font-weight: 100;
+     color: #393e46;
+}
+ 
+ 
+ nav li a:hover {
+     color: #534e52;
+     font-weight: bold;
+ }
+
+ .nav-pic{
+    text-align: center;
+    font-family:  "Dancing Script"; 
+    font-size: 50px; 
+    font-style: normal; 
+    font-variant: normal; 
+    margin: 100px auto auto auto;
+} 
